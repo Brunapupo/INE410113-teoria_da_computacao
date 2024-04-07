@@ -1,4 +1,4 @@
-## Guia da Disciplina de Teoria da Computação no GitHub 🚀
+## Guia da Disciplina de Teoria da Computação metrado UFSC no GitHub 🚀
 
 ### Introdução
 Esta disciplina abrange a essência da Teoria da Computação, com um foco especial em Autômatos, Linguagens Formais, e a Teoria da Computabilidade, estudando desde os conceitos iniciais até as Máquinas de Turing, explorando tanto o determinismo (DFA) quanto o não-determinismo (NFA) em computação.
